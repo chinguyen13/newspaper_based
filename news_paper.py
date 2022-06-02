@@ -1,5 +1,7 @@
 import requests
 import unicodedata
+import re
+from datetime import datetime
 # result = requests.get('https://edition.cnn.com/2022/05/31/asia/china-taiwan-invasion-scenarios-analysis-intl-hnk-ml/index.html')
 
 # raw = result.text
@@ -22,16 +24,20 @@ def get_body(raw_data):
     begin = raw_data['raw_data'].find("<body")
     end = raw_data['raw_data'].find("</body>")
     raw_data['raw_data'] = raw_data["raw_data"][begin:end+7]
-
-    header_position = raw_data['raw_data'].find("</header>")
-    if begin > 0 and end > 0:
-    	raw_data["raw_data"] = raw_data["raw_data"][header_position:]
+    raw = raw_data['raw_data'].split("><")
+    data = ""
+    for i in range(len(raw)):
+        raw[i] = "<" + raw[i] + ">"
+        if "<script" not in raw[i]:
+        	data += raw[i]
+    raw_data["raw_data"] = data
     return raw_data
 
 
 def get_title(raw_data):
-    begin = raw_data['raw_data'].find("<h1")
-    end = raw_data['raw_data'].find("</h1>")
+    begin = raw_data['raw_data'].rfind("<h1")
+    end = raw_data['raw_data'].rfind("</h1>")
+
     if(begin > 0 and end > 0):
         title = raw_data['raw_data'][begin:end]
         if "title" in title or "head" in title:
@@ -96,31 +102,43 @@ def get_content(raw_data):
 	                    tags.append(line[begin:end+1])
                 for tag in tags:
 	                line = line.replace(tag, "")
+                line = line.strip()
                 read.append(line)
         news = "\n".join(read)
         news = unicodedata.normalize("NFKD", news)
         return news
 
 
-def get_time(raw_data):
-    data = raw_data['raw_data'].split("><")
-    data_list = []
-    for i in range(len(data)):
-        if "time" in data[i] or "date" in data[i]:
-            data[i] = "<" + data[i] + ">"
-            tags = []
-            for j in range(len(data[i])):
-                if data[i][j] == "<":
-                    begin = j
-                if data[i][j] == ">":
-                    end = j
-                    tags.append(data[i][begin:end+1])
-            for tag in tags:
-                data[i] = data[i].replace(tag, "")
-            data_list.append(data[i])
-    # datetime = list(filter(None, data_list))
-    print(data_list)
-  
+def get_date(raw_data):
+	try:
+	    data = raw_data['raw_data']
+
+	    match_str1 = re.search(r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2})[,]\s+(\d{4})", data)
+
+	    match_str2 = re.search(r'((\d{1,2})+/(\d{1,2})+/(\d{4}))', data)
+	    if match_str1 != None:
+	    	res = match_str1[0]
+	    elif match_str2 != None:
+	    	res = datetime.strptime(match_str2.group(), '%d/%m/%Y').date()
+	    else:
+	    	res = "Not Found"
+	  
+	    return res
+	except:
+		return "Not Found"
+
+
+def get_author(raw_data):
+	data = raw_data['raw_data'].split("><")
+	for line in data:
+		if "author" in line and ("by" in line or "By" in line):
+			begin = line.find(">")
+			end = line.find("</")
+			author = line[begin+1:end]
+			if len(author) < 100:
+				return author
+
+	return "Not found!"
 
 
 
@@ -128,10 +146,6 @@ def get_time(raw_data):
 
 
 
-
-
-
-url = 'https://vnexpress.net/tat-ca-doanh-nghiep-nguoi-dan-dung-hoa-don-dien-tu-tu-1-7-4470881.html'
 
 # CNN News URL link
 # https://edition.cnn.com/2022/05/31/asia/china-taiwan-invasion-scenarios-analysis-intl-hnk-ml/index.html
@@ -142,13 +156,15 @@ url = 'https://vnexpress.net/tat-ca-doanh-nghiep-nguoi-dan-dung-hoa-don-dien-tu-
 # https://www.nbcnews.com/news/us-news/multiple-victims-shooting-tulsa-hospital-gunman-police-say-rcna31551
 # https://www.nbcnews.com/pop-culture/pop-culture-news/johnny-depp-amber-heard-trial-verdict-rcna30926
 
-# The Guardian URL link
-# https://www.theguardian.com/uk-news/2022/may/31/first-rwanda-deportation-flight-leave-uk-14-june-priti-patel
-# https://www.theguardian.com/sport/2022/jun/01/cilic-defeats-rublev-in-five-sets-to-reach-french-open-last-four-for-first-time
-
 # VNExpress URL Link
 # https://vnexpress.net/truong-doan-thai-lan-gap-viet-nam-giong-nhu-chung-ket-4470987.html
 # https://vnexpress.net/tat-ca-doanh-nghiep-nguoi-dan-dung-hoa-don-dien-tu-tu-1-7-4470881.html
+
+# Others
+# https://www.ndtv.com/india-news/request-pm-arrest-all-of-us-together-arvind-kejriwal-defends-delhi-ministers-over-corruption-charges-3031254#pfrom=home-ndtv_topscroll
+
+
+url = 'https://edition.cnn.com/2022/05/31/asia/asia-meth-crime-synthetic-drugs-hnk-intl/index.html'
 
 raw_data = read_url(url)
 
@@ -157,15 +173,23 @@ raw_data = get_body(raw_data)
 title = get_title(raw_data)
 
 content = get_content(raw_data)
-get_content(raw_data)
 
-print(title)
+date = get_date(raw_data)
 
-print()
+author = get_author(raw_data)
 
-print(content)
+print("Title: " + title)
 
-# print(get_time(raw_data))
+print("Author: " + author)
+
+print("Date: " + str(date))
+
+
+print("Article:\n" + content)
+
+
+
+
 
 # with open("cleaning.txt", "w", encoding="utf-8") as file:
 #     file.write(raw_data)
