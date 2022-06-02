@@ -1,0 +1,587 @@
+<section class="zn zn-body-text zn-body zn--idx-0 zn--ordinary zn-has-multiple-containers zn-has-106-containers" data-eq-pts="xsmall: 0, medium: 460, large: 780, full16x9: 1100" id="body-text" data-vr-zone="zone-1-0" data-zone-label="bodyText" data-containers="106" id="body-text" data-zn-id="body-text"
+div class="l-container"
+div class="el__leafmedia el__leafmedia--sourced-paragraph"
+p class="zn-body__paragraph speakable" data-paragraph-id="paragraph_A42A8206-721D-0D2D-6E96-F3F574C5DB16"
+cite class="el-editorial-source">Seoul, South Korea (CNN)</cite>On his first trip to Asia as United States President last week, Joe Biden gave his strongest warning yet to Beijing that Washington was <a href="https://www.cnn.com/2022/05/23/politics/biden-taiwan-china-japan-intl-hnk/index.html" target="_blank">committed to defending Taiwan militarily</a> in the event of an attack from China.</p
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_84051064-FA29-B7C6-2010-F93360B5C6DB">Biden's comments, which compared a potential Chinese attack on Taiwan to <a href="https://www.cnn.com/specials/europe/ukraine" target="_blank">Russia's invasion of Ukraine</a>, appeared to deviate from Washington's decades-old policy of "strategic ambiguity" on the issue and seemingly raised the possibility of a military clash between US and Chinese forces.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_D5CD95BD-B495-30EA-2AD1-F937E6CBD975">It's the third time Biden has made similar remarks since taking office and, just as on the other two occasions, they were quickly walked back by the White House -- which insists its policy has not changed. However, it inevitably raises the question: if China tries to take Taiwan, are the United States and its allies able to stop it?</div
+div class="ad ad--epic ad--mobile" data-ad-text="show"
+div data-ad-id="ad_rect_atf_01" data-ad-position="mobile" data-ad-refresh="default"
+div id="ad_rect_atf_01" class="ad-ad_rect_atf_01 ad-refresh-default"
+/div
+/div
+/div
+div class="ad ad--epic ad--tablet" data-ad-text="show"
+div data-ad-id="ad_nat_btf_01" data-ad-position="tablet" data-ad-refresh="default"
+div id="ad_nat_btf_01" class="ad-ad_nat_btf_01 ad-refresh-default"
+/div
+/div
+/div
+div class="ad ad--epic ad--desktop" data-ad-text="show"
+div data-ad-id="ad_nat_btf_01" data-ad-position="desktop" data-ad-refresh="default"
+div id="ad_nat_btf_01" class="ad-ad_nat_btf_01 ad-refresh-default"
+/div
+/div
+/div
+ul class="cn cn-list-hierarchical-xs cn--idx-4 cn-zoneAdContainer" data-layout="list-hierarchical-xs"
+/ul
+div class="zn-body__paragraph" data-paragraph-id="paragraph_1C9DAFEC-E4F7-CC32-2072-F932915E9B8B">And the alarming answer is: Quite possibly not. Analysts say China has more troops, more missiles and more ships than Taiwan or its possible supporters, like the US or Japan, could bring to a fight. That means that if China is absolutely determined to take the island it probably can.</div
+div class="ad ad--epic ad--mobile" data-ad-text="show"
+div data-ad-id="ad_nat_btf_01" data-ad-position="mobile" data-ad-refresh="default"
+div id="ad_nat_btf_01" class="ad-ad_nat_btf_01 ad-refresh-default"
+/div
+/div
+/div
+ul class="cn cn-list-hierarchical-xs cn--idx-6 cn-zoneAdContainer" data-layout="list-hierarchical-xs"
+/ul
+div class="zn-body__paragraph" data-paragraph-id="paragraph_23A8E50B-65A0-B2B4-A5AE-F94771C53A16">But there's a caveat; while China could likely prevail, any victory would come at an extremely bloody price for both Beijing and its adversaries.</div
+div class="zn-body__read-more"
+div class="read-more-gradient"
+/div
+div class="read-more-button" data-zjs="click" data-zjs-campaign="readmore-btn-mobile"
+div class="read-more-link" id="js-body-read-more">Read More</div
+/div
+/div
+div class="zn-body__read-all"
+div class="zn-body__paragraph" data-paragraph-id="paragraph_9A4A8315-2885-2916-46EA-F94905BF2A89">Many analysts say an invasion of Taiwan would be more dangerous and complex than the Allied D-Day landings in France in World War II. US government documents put the number of killed, injured and missing from both sides during the almost three-month-long Normandy campaign at almost half a million troops.</div
+div class="el__embedded el__embedded--standard"
+div class="el__storyelement--standard el__article--embed"
+div class="el__article--teaseimage"
+a href="/2022/05/24/china/china-taiwan-conflict-explainer-intl-hnk/index.html" 
+img class="media__image media__image--responsive" alt="What you need to know about China-Taiwan tensions" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="What you need to know about China-Taiwan tensions" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220524032125-taiwan-navy-exercise-0107-restricted-large-169.jpg"
+/noscript
+/a
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header"
+a href="/2022/05/24/china/china-taiwan-conflict-explainer-intl-hnk/index.html">What you need to know about China-Taiwan tensions</a
+/span
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_6BD1149D-87D5-DD31-C31D-1DB74C77FE3F"
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_6CEB8D41-756E-386C-E3F3-FF5FB21E81ED">And the civilian carnage could be far, far worse. </div
+div class="ad ad--epic ad--mobile" data-ad-text="show"
+div data-ad-id="ad_out_vid_01" data-ad-position="mobile" data-ad-refresh="default"
+div id="ad_out_vid_01" class="ad-ad_out_vid_01 ad-refresh-default"
+/div
+/div
+/div
+div class="ad ad--epic ad--tablet" data-ad-text="show"
+div data-ad-id="ad_out_vid_01" data-ad-position="tablet" data-ad-refresh="default"
+/div
+/div
+div class="ad ad--epic ad--desktop" data-ad-text="show"
+div data-ad-id="ad_out_vid_01" data-ad-position="desktop" data-ad-refresh="default"
+/div
+/div
+ul class="cn cn-list-hierarchical-xs cn--idx-13 cn-zoneAdContainer" data-layout="list-hierarchical-xs"
+/ul
+div class="zn-body__paragraph" data-paragraph-id="paragraph_894B1AB3-80B9-5140-6C5C-FF6680486AB6">Taiwan's population of 24 million people is packed into dense urban areas like the capital Taipei, with an average of 9,575 people per square kilometer. Compare that to Mariupol, Ukraine -- devastated in the war with Russia -- and with an average of 2,690 people per square kilometer.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_B553F512-8A14-7799-5B94-F90F10E4521A">Despite its numerical advantages in sea-, air- and land-based forces in the region, China has Achilles heels in each arena of war that would force Beijing to think long and hard about whether an invasion is worth the overwhelming human cost.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_9C0B2D96-1F3A-4858-FFB6-F9A15392B8FC">Here are some scenarios of how a Chinese invasion might play out:   </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_5BF2A132-D03B-508B-3939-F930DEBA7FED"
+h3>The naval war</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3BCDBC29-4C76-3B25-2720-F9A1B825AA7A">China has <a href="https://www.cnn.com/2021/03/05/china/china-world-biggest-navy-intl-hnk-ml-dst/index.html" target="_blank">the world's largest navy</a>, with around 360 combat vessels --<strong> </strong>bigger than the US' fleet of just under 300 ships. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_5DC2F7C1-319E-5866-045B-F9A41E7A3790">Beijing also has the world's most-advanced merchant fleet, a large coast guard and, experts say, a <a href="https://www.cnn.com/2021/04/12/china/china-maritime-militia-explainer-intl-hnk-ml-dst/index.html" target="_blank">maritime militia</a> -- fishing boats unofficially aligned with the military -- giving it access to hundreds of additional vessels that could be used to transport the hundreds of thousands of troops that analysts say China would need for an amphibious invasion.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_76D749D2-88B5-0CC2-301E-FE50F4FB2EE0">And those troops would need massive amounts of supplies.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_49106BFD-A037-4B35-158F-FE50F627B01C">"For Beijing to have reasonable prospects of victory, the PLA (People's Liberation Army) would have to move thousands of tanks, artillery guns, armored personnel vehicles, and rocket launchers across with the troops. Mountains of equipment and lakes of fuel would have to cross with them," Ian Easton, a senior director at the Project 2049 Institute, <a href="https://thediplomat.com/2021/05/why-a-taiwan-invasion-would-look-nothing-like-d-day/" target="_blank">wrote in The Diplomat </a>last year.</div
+div class="el__embedded el__embedded--standard"
+div class="el__storyelement--standard el__article--embed"
+div class="el__article--teaseimage"
+a href="/2022/05/23/china/quad-summit-china-threat-analysis-intl-hnk-mic/index.html" 
+img class="media__image media__image--responsive" alt="China is alarmed by the Quad. But its threats are driving the group closer together" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="China is alarmed by the Quad. But its threats are driving the group closer together" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220520054351-malabar-exercises-2020-large-169.jpg"
+/noscript
+/a
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header"
+a href="/2022/05/23/china/quad-summit-china-threat-analysis-intl-hnk-mic/index.html">China is alarmed by the Quad. But its threats are driving the group closer together</a
+/span
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_BAF4743F-34F4-6F90-794B-F9B483BE5B0F">Getting a force of that size across the 110 miles (177 kilometers) of the Taiwan Strait would be a long, dangerous mission during which those vessels carrying the troops and equipment would be sitting ducks.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_6EFB3030-9D9E-8242-C729-F9B21C7D4722">"The thought about China invading Taiwan, that's a massacre for the Chinese navy," said Phillips O'Brien, professor of strategic studies at the University of St. Andrews in Scotland.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_138AAA23-EFE8-FB82-DDAC-F9B6E56BE9DC">That's because Taiwan has been stocking up on cheap and effective land-based anti-ship missiles, similar to the Neptunes Ukraine used to sink the Russian cruiser Moskva in the Black Sea in April.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_72158C16-293A-AB81-35EB-F9A8C46F669F">"Taiwan is mass-producing these things. And they're small, it's not like (China) can take them all out," O'Brien said.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_B60FDE29-1A4C-A719-606A-F9A8C46F846E">"What's cheap is a surface-to-ship missile, what's expensive is a ship."</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="The Chinese guided-missile destroyer Changsha returns to a port in Sanya City, China, in  March 2017." data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="The Chinese guided-missile destroyer Changsha returns to a port in Sanya City, China, in  March 2017." class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">The Chinese guided-missile destroyer Changsha returns to a port in Sanya City, China, in  March 2017.</div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "The Chinese guided-missile destroyer Changsha returns to a port in Sanya City, China, in  March 2017.","description": "The Chinese guided-missile destroyer Changsha returns to a port in Sanya City, China, in  March 2017.","url": "//cdn.cnn.com/cnnnext/dam/assets/220526082015-06-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_B45C84D4-6630-AA9A-BF21-F9B94427EC34">Still, China could -- given its numerical advantage -- simply decide the losses were worth it, pointed out Thomas Shugart, a former US Navy submarine captain and now an analyst at the Center for a New American Security. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_50C86D50-C3D2-C422-093D-F9B93B74E477">"There's gonna be hundreds if not thousands of (Chinese) vessels there to soak up those (Taiwanese) missiles," Shugart said.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_40392E7C-81CD-4824-CE80-F9BBB657E73F">Missiles aside, China would face massive logistical hurdles in landing enough soldiers. Conventional military wisdom holds that an attacking force should outnumber defenders 3 to 1.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_84CE7E1D-44BA-72C6-50AE-F9BD683BBFDD">"With a potential defending force of 450,000 Taiwanese today ... China would need over 1.2 million soldiers (out of a total active force of more than 2 million) that would have to be transported in many thousands of ships," Howard Ullman, a former US Navy officer and professor at the US Naval War College, wrote in a <a href="https://www.atlanticcouncil.org/content-series/reality-check/reality-check-10-china-will-not-invade-taiwan/" target="_blank">February essay for the Atlantic Council</a>.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_46A83F3D-16EB-CF2A-1E33-F9BD683B1E56">He estimated such an operation would take weeks and that despite China's maritime strength, it "simply lacks the military capability and capacity to launch a full-scale amphibious invasion of Taiwan for the foreseeable future."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_DDAB31BB-5098-40BA-5895-F9CD74F27566"
+h3>Aircraft carrier killers</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_5150AE3D-69D8-5D99-35B8-F9A8C46FE12F">Some of the problems that would face China's navy in Taiwan would also face any US naval force sent to defend the island.</div
+div class="el__embedded el__embedded--standard"
+div class="el__storyelement--standard el__article--embed"
+div class="el__article--teaseimage"
+a href="/2019/01/29/asia/china-df-26-missile-tests-video-intl/index.html" 
+img class="media__image media__image--responsive" alt="Ballistic missile can hit moving ships, China says" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="Ballistic missile can hit moving ships, China says" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/190129151623-china-df-26-tease-large-169.jpg"
+/noscript
+/a
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header"
+a href="/2019/01/29/asia/china-df-26-missile-tests-video-intl/index.html">Ballistic missile can hit moving ships, China says</a
+/span
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_7B34C502-3944-37E4-C4BF-F9D394D3D6BD">The US Navy sees its aircraft carriers and amphibious assault ships, bristling with F-35 and F/A-18 jets, as its spear in the Pacific and would have a numerical advantage in this area. The US has 11 carriers in total, compared to China's two. However, only about half are combat ready at any one time and even these might be vulnerable.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_8F526ED7-E94B-F170-CB15-F9A8C46F3AD7">O'Brien and others point out that the People's Liberation Army has more than 2,000 conventionally armed missiles,<strong> </strong>many of which it has developed with the US Navy's prized aircraft carriers in mind.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_4DBDF4F3-C745-660B-A603-F9D13BA32174">Of particular concern would be China's DF-26 and DF-21D -- touted by Beijing's state-run Global Times tabloid in 2020 as <a href="https://www.cnn.com/2020/08/28/asia/china-missile-tests-exercises-intl-hnk-scli/index.html" target="_blank">"aircraft carrier killers"</a> and the "world's first ballistic missiles capable of targeting large and medium-sized vessels."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3F33C181-305D-4748-6903-F9A8C4707B8B">As O'Brien puts it, "The US better be careful thinking about, in any kind of war environment, sending carrier battle groups close to China ... If you're fighting a state-to-state war, you're going to stay far away from shore."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_F9A3E03D-EC09-77AD-06F2-F9D2D0D37313">Others are more confident in the US carriers.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_5FC1D934-DB20-7F77-F771-F9A8C472BED2">Rear Adm. Jeffery Anderson, the commander of the US Navy's Carrier Strike Group Three centered on the carrier USS Abraham Lincoln, recently told CNN his ships are more than ready to deal with the kind of missiles that sank the Moskva.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_359FDA71-1C51-8A21-98CB-F9A8C4720CD4">"One thing I do know about our US ships is they're extremely survivable. Not only are they lethal, but they are extremely survivable," he said.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="A Chinese air force fighter jet takes off during training exercises in 2017." data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="A Chinese air force fighter jet takes off during training exercises in 2017." class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">A Chinese air force fighter jet takes off during training exercises in 2017.</div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "A Chinese air force fighter jet takes off during training exercises in 2017.","description": "A Chinese air force fighter jet takes off during training exercises in 2017.","url": "//cdn.cnn.com/cnnnext/dam/assets/220526082242-08-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_CE283C07-7411-28CC-FFE1-F908699EE476"
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_87C007E4-6069-A3A4-ABD5-F47DAFC83858"
+h3>The air war</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_DF931E8C-AE7F-E35B-1403-F9DCECEA50AC">China is likely to seek air superiority early into any conflict, analysts say, and may feel it has an advantage in the skies.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_366AF537-C86A-AC20-D4DA-FE2840E4DD20">Flight Global's 2022 directory of the world's air forces shows the PLA with almost 1,600 combat aircraft, compared to <a href="https://www.cnn.com/2021/11/18/asia/taiwan-f-16-fighter-combat-squadron-intl-hnk-ml/index.html" target="_blank">Taiwan's fewer than 300</a>. The directory shows the US with more than 2,700 combat aircraft, but those cover the world while China's are all in the region.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__video--fullwidth js__video--fullwidth" data-autoplay="false"
+script>'use strict';CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = {};CNN.INJECTOR.executeFeature('video').then(function () {CNN.VideoPlayer.handleUnmutePlayer = function handleUnmutePlayer(containerId, dataObj) {'use strict';var playerInstance,playerPropertyObj,rememberTime,unmuteCTA,unmuteIdSelector = 'unmute_' + containerId,isPlayerMute;dataObj = dataObj || {};if (CNN.VideoPlayer.getLibraryName(containerId) === 'fave') {playerInstance = FAVE.player.getInstance(containerId) || null;} else {playerInstance = containerId && window.cnnVideoManager.getPlayerByContainer(containerId).videoInstance.cvp || null;}isPlayerMute = (typeof dataObj.muted === 'boolean') ? dataObj.muted : false;if (CNN.VideoPlayer.playerProperties && CNN.VideoPlayer.playerProperties[containerId]) {playerPropertyObj = CNN.VideoPlayer.playerProperties[containerId];}if (playerPropertyObj.mute && playerPropertyObj.contentPlayed) {if (isPlayerMute === false) {unmuteCTA = jQuery(document.getElementById(unmuteIdSelector));playerInstance.unmute();if (unmuteCTA.length > 0) {unmuteCTA.removeClass('video__unmute--active').addClass('video__unmute--inactive');unmuteCTA.off('click');rememberTime = 0;if (rememberTime < 0) {rememberTime = 360 / 60;}CNN.Utils.storeLocalValue('unmute_asia', 'X', rememberTime);}} else {playerInstance.mute();}}};CNN.VideoPlayer.showFlashSlate = function showFlashSlate(container) {'use strict';var $vidEndSlate;$vidEndSlate = container.parent().find('.js-video__end-slate').eq(0);if ($vidEndSlate.length > 0) {$vidEndSlate.find('.l-container').html('<a href="https://get.adobe.com/flashplayer/" target="_blank"
+div class="flash-slate"
+/div
+/a>');$vidEndSlate.removeClass('video__end-slate--inactive').addClass('video__end-slate--active');}};CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;var configObj = {thumb: 'none',video: 'world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn',width: '100%',height: '100%',section: 'international',profile: 'expansion',network: 'cnn',markupId: 'body-text_49',theoplayer: {allowNativeFullscreen: true},adsection: 'const-article-inpage',frameWidth: '100%',frameHeight: '100%',posterImageOverride: {"mini":{"width":220,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-small-169.jpg","height":124},"xsmall":{"width":307,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-medium-plus-169.jpg","height":173},"small":{"width":460,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg","height":259},"medium":{"width":780,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-exlarge-169.jpg","height":438},"large":{"width":1100,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-super-169.jpg","height":619},"full16x9":{"width":1600,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-full-169.jpg","height":900},"mini1x1":{"width":120,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-small-11.jpg","height":120}}},autoStartVideo = false,isVideoReplayClicked = false,callbackObj,containerEl,currentVideoCollection = [],currentVideoCollectionId = '',isLivePlayer = false,mediaMetadataCallbacks,mobilePinnedView = null,moveToNextTimeout,mutePlayerEnabled = false,nextVideoId = '',nextVideoUrl = '',turnOnFlashMessaging = false,videoPinner,videoEndSlateImpl;if (CNN.autoPlayVideoExist === false) {autoStartVideo = false;autoStartVideo = typeof CNN.isLoggedInVideoCheck === 'function' ? CNN.isLoggedInVideoCheck(autoStartVideo) : autoStartVideo;if (autoStartVideo === true) {if (turnOnFlashMessaging === true) {autoStartVideo = false;containerEl = jQuery(document.getElementById(configObj.markupId));CNN.VideoPlayer.showFlashSlate(containerEl);} else {CNN.autoPlayVideoExist = true;}}}configObj.autostart = CNN.Features.enableAutoplayBlock ? false : autoStartVideo;CNN.VideoPlayer.setPlayerProperties(configObj.markupId, autoStartVideo, isLivePlayer, isVideoReplayClicked, mutePlayerEnabled);CNN.VideoPlayer.setFirstVideoInCollection(currentVideoCollection, configObj.markupId);videoEndSlateImpl = new CNN.VideoEndSlate('body-text_49');function findNextVideo(currentVideoId) {var i,vidObj;if (currentVideoId && jQuery.isArray(currentVideoCollection) && currentVideoCollection.length > 0) {for (i = 0; i < currentVideoCollection.length; i++) {vidObj = currentVideoCollection[i];if (typeof vidObj !== 'undefined' && vidObj.videoId === currentVideoId) {if (i < currentVideoCollection.length - 1) {nextVideoId = currentVideoCollection[i + 1].videoId;nextVideoUrl = currentVideoCollection[i + 1].videoUrl;} else {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}break;}}if (!nextVideoUrl) {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}currentVideoCollectionId = (window.jsmd && window.jsmd.v && window.jsmd.v.eVar60) || nextVideoUrl.replace(/^.+\/video\/playlists\/(.+)\//, '$1');} else {nextVideoId = '';nextVideoUrl = '';}}findNextVideo('world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn');function navigateToNextVideo(currentVideoId, containerId) {var $endSlate,nextVideoPlayTimeout = 1500;findNextVideo(currentVideoId);if (nextVideoUrl) {moveToNextTimeout = setTimeout(function () {location.href = nextVideoUrl;}, nextVideoPlayTimeout);} else {$endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {videoEndSlateImpl.showEndSlateForContainer();if (mobilePinnedView) {mobilePinnedView.disable();}}}}callbackObj = {onPlayerReady: function (containerId) {var playerInstance,containerClassId = '#' + containerId;CNN.VideoPlayer.handleInitialExpandableVideoState(containerId);if (CNN.Features.enableVideoObserver && Modernizr && Modernizr.phone) {CNN.VideoPlayer.observeVideoPlayer(containerId);}CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, CNN.pageVis.isDocumentVisible());if (CNN.Features.enableMobileWebFloatingPlayer &&Modernizr &&(Modernizr.phone || Modernizr.mobile || Modernizr.tablet) &&CNN.VideoPlayer.getLibraryName(containerId) === 'fave' &&jQuery(containerClassId).parents('.js-pg-rail-tall__head').length > 0 &&CNN.contentModel.pageType === 'article') {playerInstance = FAVE.player.getInstance(containerId);mobilePinnedView = new CNN.MobilePinnedView({element: jQuery(containerClassId),enabled: false,transition: CNN.MobileWebFloatingPlayer.transition,onPin: function () {playerInstance.hideUI();},onUnpin: function () {playerInstance.showUI();},onPlayerClick: function () {if (mobilePinnedView) {playerInstance.enterFullscreen();playerInstance.showUI();}},onDismiss: function() {CNN.Videx.mobile.pinnedPlayer.disable();playerInstance.pause();}});/* Storing pinned view on CNN.Videx.mobile.pinnedPlayer So that all players can see the single pinned player */CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = CNN.Videx.mobile || {};CNN.Videx.mobile.pinnedPlayer = mobilePinnedView;}if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (jQuery(containerClassId).parents('.js-pg-rail-tall__head').length) {videoPinner = new CNN.VideoPinner(containerClassId);videoPinner.init();} else {CNN.VideoPlayer.hideThumbnail(containerId);}}},onContentEntryLoad: function(containerId, playerId, contentid, isQueue) {CNN.VideoPlayer.showSpinner(containerId);},onContentPause: function (containerId, playerId, videoId, paused) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, paused);}},onContentMetadata: function (containerId, playerId, metadata, contentId, duration, width, height) {var endSlateLen = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0).length;CNN.VideoSourceUtils.updateSource(containerId, metadata);if (endSlateLen > 0) {videoEndSlateImpl.fetchAndShowRecommendedVideos(metadata);}},onAdPlay: function (containerId, cvpId, token, mode, id, duration, blockId, adType) {/* Dismissing the pinnedPlayer if another video players plays an Ad */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onAdPause: function (containerId, playerId, token, mode, id, duration, blockId, adType, instance, isAdPause) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, isAdPause);}},onTrackingFullscreen: function (containerId, PlayerId, dataObj) {CNN.VideoPlayer.handleFullscreenChange(containerId, dataObj);if (mobilePinnedView &&typeof dataObj === 'object' &&FAVE.Utils.os === 'iOS' && !dataObj.fullscreen) {jQuery(document).scrollTop(mobilePinnedView.getScrollPosition());playerInstance.hideUI();}},onContentPlay: function (containerId, cvpId, event) {var playerInstance,prevVideoId;if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreEpicAds');}clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onContentReplayRequest: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);var $endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {$endSlate.removeClass('video__end-slate--active').addClass('video__end-slate--inactive');}}}},onContentBegin: function (containerId, cvpId, contentId) {if (mobilePinnedView) {mobilePinnedView.enable();}/* Dismissing the pinnedPlayer if another video players plays a video. */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);CNN.VideoPlayer.mutePlayer(containerId);if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('removeEpicAds');}CNN.VideoPlayer.hideSpinner(containerId);clearTimeout(moveToNextTimeout);CNN.VideoSourceUtils.clearSource(containerId);jQuery(document).triggerVideoContentStarted();},onContentComplete: function (containerId, cvpId, contentId) {if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreFreewheel');}navigateToNextVideo(contentId, containerId);},onContentEnd: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(false);}}},onCVPVisibilityChange: function (containerId, cvpId, visible) {CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, visible);}};if (typeof configObj.context !== 'string' || configObj.context.length <= 0) {configObj.context = 'asia'.replace(/[\(\)\-]/g, '');}if (typeof configObj.adsection === 'undefined' && typeof window.ssid === 'string' && window.ssid.length > 0) {configObj.adsection = window.ssid;}CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;CNN.VideoPlayer.getLibrary(configObj, callbackObj, isLivePlayer);});CNN.INJECTOR.scriptComplete('videodemanddust');</script
+div class="js-media__video media__video" id="media__video_body-text_49--wrapper"
+div id="body-text_49--thumbnail" class="media__video--thumbnail"
+img class="media__image media__image--responsive" alt="Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg"
+/noscript
+/div
+div id="spinner_body-text_49" class="video-red-spinner"
+/div
+div class="media__video--thumbnail-wrapper"
+div class="video__end-slate--inactive video__end-slate js-video__end-slate" data-eq-pts="xsmall: 0, small: 300, medium: 460, large: 780"
+div class="l-container"
+div class="video__end-slate__top-wrapper"
+div class="js-el__video__replayer-wrapper el__video__replayer-wrapper"
+img alt="Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg"
+a class="el__video__replay-button-wrapper" href="javascript:void(0);" title="Click to watch this video"
+div class="js-el__video__replay-button el__video__replay-button"
+/div
+/a
+/div
+div class="video__end-slate__secondary"
+ul class="cn cn-list-hierarchical-xs cn--idx-0"
+h3 class="cd__headline-title">JUST WATCHED</h3
+h2 class="cd__headline"
+span class="cd__headline-text js-cd__headline-text">Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)</span
+/h2
+/ul
+div class="video__end-slate__replay"
+a class="js-video__end-slate__replay"
+div class="video__end-slate__replay-icon cnn-icon"
+/div
+/a
+/div
+div class="video__end-slate__engage__wrapper"
+div class="video__end-slate__engage__text"
+a class="js-video__end-slate__replay-text video__end-slate__replay-text">Replay</a
+/div
+div class="video__end-slate__engage__more"
+a href="/videos" class="video__end-slate__replay-text">More Videos ...</a
+/div
+/div
+/div
+/div
+h4 class="video__end-slate__tertiary-title">MUST WATCH</h4
+div class="js-video__end-slate__tertiary video__end-slate__tertiary"
+div class="js-video__end-slate__carousel video__end-slate__carousel"
+/div
+/div
+/div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "https://schema.org","@type": "VideoObject","name": "Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)","description": "Taiwan has officially commissioned its first F-16V combat wing as it upgrades its military hardware amid growing threats from mainland China. CNN&#39;s Will Ripley reports from Chiayi Air Base in southern Taiwan.","thumbnailURL": "https://cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg","image": "https://cdn.cnn.com/cnnnext/dam/assets/211118093229-video-thumbnail-taiwan-large-169.jpg","duration": "PT2M12S","uploadDate": "2021-11-18T09:45:24Z","contentUrl": "https://edition.cnn.com/videos/world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn","url": "https://edition.cnn.com/videos/world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn","embedUrl": "https://fave.api.cnn.io/v1/fav/?video=world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn&customer=cnn&edition=international&env=prod"}</script
+div id="body-text_49" class="media__video--responsive " data-video-id="world/2021/11/18/taiwan-f-16v-commission-ripley-wt-ovn-intl-hnk-vpx.cnn"
+/div
+div id="body-text_49-metadata" class="metadata"
+p class="metadata__source"
+span class="metadata__source-name"
+/span
+/p
+/div
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header">Taiwan holds ceremony for advanced F-16V fighter jets (Nov. 2021)</span> <span class="el__storyelement__gray">02:11</span
+/div
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_11448911-4005-BABF-A6BE-F9E271BB4221">In the air war, China also will have learned from <a href="http://www.cnn.com/2022/03/17/europe/air-superiority-ukraine-russia-intl-cmd/index.html" target="_blank">Russia's failures in Ukraine</a> -- where Moscow took months assembling its ground forces yet failed to soften up the terrain for them with a bombing campaign -- and is more likely to emulate the "shock and awe" bombardments that preceded the US' invasions of Iraq.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_23AA092D-558E-4C1E-C1F6-F9DE84027795">"I'm sure the PLA is learning from what they're seeing," Shugart said. "You can read open-source translations of their strategic documents. They learned very carefully from what we did in Desert Storm and Kosovo."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3731C44D-DF84-7350-9F26-FA0385A66EFF">But even in the air China would face significant difficulties.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="A guided-missile-armed J-20 stealth fighter jet of the Chinese People&amp;#39;s Liberation Army (PLA) Air Force performs at Airshow China 2018." data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="A guided-missile-armed J-20 stealth fighter jet of the Chinese People&amp;#39;s Liberation Army (PLA) Air Force performs at Airshow China 2018." class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">A guided-missile-armed J-20 stealth fighter jet of the Chinese People's Liberation Army (PLA) Air Force performs at Airshow China 2018.</div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "A guided-missile-armed J-20 stealth fighter jet of the Chinese People&#39;s Liberation Army (PLA) Air Force performs at Airshow China 2018.","description": "A guided-missile-armed J-20 stealth fighter jet of the Chinese People&#39;s Liberation Army (PLA) Air Force performs at Airshow China 2018.","url": "//cdn.cnn.com/cnnnext/dam/assets/220526081539-01-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_FAE515B3-13A5-2D99-B704-F9FF76981666">Russia's failure to quickly seize control of the skies in Ukraine initially dumbfounded many analysts. Some put the failure down to the cheap antiaircraft missiles Western militaries have supplied to Kyiv. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_41EDC3CA-0EA5-EF78-F9B7-FA4A4B6E5809">Taiwan has deals with the United States to <a href="https://www.cnn.com/2019/07/08/politics/us-arms-sale-taiwan/index.html" target="_blank">supply it with Stinger antiaircraft missiles</a> and Patriot missile defense batteries. And it also has been investing heavily in its own missile production facilities over the past three years in a project, when completed this summer, will see its missile production capabilities triple, according to <a href="https://www.janes.com/defence-news/news-detail/taiwan-boosts-missile-production-capability" target="_blank">a Janes repor</a>t in March.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_656BD1B8-CFD7-3B6E-D938-FA0809DFA977">On the other hand, China would have an advantage over the US due to its closeness to Taiwan. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_0C6DB0EC-5A20-B5AD-A5D6-FA007BA5C949">A recent war game run by the Center for a New American Security concluded that an aerial conflict between the US and China would likely end in stalemate.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_97D82CE7-BAF0-E490-8265-FA0C5B176DA5"
+a href="https://www.airforcemag.com/in-cnas-led-taiwan-wargame-no-air-superiority-no-quick-win/" target="_blank">Commenting on the result to Air Force Magazine</a>, Lt. Gen. S. Clinton Hinote, US Air Force deputy chief of staff for strategy, integration and requirements, said that while the US was used to dominating the skies some factors weren't in its favor.</div
+div class="el__embedded el__embedded--standard"
+div class="el__storyelement--standard el__article--embed"
+div class="el__article--teaseimage"
+a href="/2022/04/15/china/china-j-20-jet-patrol-east-south-china-sea-intl-hnk/index.html" 
+img class="media__image media__image--responsive" alt="China is sending its most advanced fighter jet to patrol disputed seas" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="China is sending its most advanced fighter jet to patrol disputed seas" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220414235408-china-j-20-jet-2021-file-restricted-large-169.jpg"
+/noscript
+/a
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header"
+a href="/2022/04/15/china/china-j-20-jet-patrol-east-south-china-sea-intl-hnk/index.html">China is sending its most advanced fighter jet to patrol disputed seas</a
+/span
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_47B479BA-2B5C-27BF-8876-FA0E31764A96">China had "invested in modern aircraft and weapons to fight us," he noted, and US forces would also face the "tyranny of distance" -- most of the US air power used in the war game operated out of the Philippines, about 500 miles (800 kilometers) away.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_DA915077-1304-C161-92AE-F499CCFDD0F7">The war game simulated Chinese forces beginning their campaign by trying to take out the nearest US bases in places like Guam and Japan.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_427D5B1C-A321-A2F0-658E-FA116D096B75">Hinote likened that move to Japan's attack on Pearl Harbor in December 1941, saying China would be motivated by "many of the same reasons."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_2CC14D3E-CFCB-B98E-13E4-F4B1485BC67B">"The attack is designed to give Chinese forces the time they need to invade and present the world with a fait accompli," he told the magazine.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_F06D8092-ED9F-1891-1E7E-FA12E8804BD3">China has a growing arsenal of short-, medium- and intermediate range ballistic missiles that can reach these far-flung targets.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_5768489A-60D3-6E4A-623A-FA13FEF7BCC8">As of 2020, the PLA had at least 425 missile launchers capable of hitting those US bases, according to the China Power project at the Center for Strategic and International Studies.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="A Chinese People&amp;#39;s Liberation Army (PLA) soldier fires an anti-tank rocket during a live-fire military exercise in Wuzhong, Ningxia Hui Autonomous Region, China in 2019. " data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="A Chinese People&amp;#39;s Liberation Army (PLA) soldier fires an anti-tank rocket during a live-fire military exercise in Wuzhong, Ningxia Hui Autonomous Region, China in 2019. " class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">A Chinese People's Liberation Army (PLA) soldier fires an anti-tank rocket during a live-fire military exercise in Wuzhong, Ningxia Hui Autonomous Region, China in 2019. </div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "A Chinese People&#39;s Liberation Army (PLA) soldier fires an anti-tank rocket during a live-fire military exercise in Wuzhong, Ningxia Hui Autonomous Region, China in 2019. ","description": "A Chinese People&#39;s Liberation Army (PLA) soldier fires an anti-tank rocket during a live-fire military exercise in Wuzhong, Ningxia Hui Autonomous Region, China in 2019. ","url": "//cdn.cnn.com/cnnnext/dam/assets/220526081735-03-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_4CED5D14-C853-D8DE-E49B-F92DE12A4237"
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3D502FFE-B1CB-96B4-F765-F92E80A4F87E"
+h3>The ground war</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_63185B8D-05C8-FBE7-1B7E-FA15F0942761">Even in a scenario where China was willing to take these risks and managed to get a significant amount of troops ashore, its forces would then face another uphill battle.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_39CD28D6-4A7E-1475-8FEF-FA16F657CAA1">Taiwan has about 150,000 troops and 2.5 million reservists -- and its entire national defense strategy is based on countering a Chinese invasion. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_181F9B09-BE3C-C0C5-F14B-FA221165F2C3">Like their counterparts in Ukraine the Taiwanese would have the advantage of home turf, knowing the ground and being highly motivated to defend it. </div
+div class="el__embedded el__embedded--fullwidth"
+div class="element-raw appearance-fullwidth"
+!--[if (gte IE 9)|!(IE)]
+!--> <style> .m-infographic--1561017434168 { background: url(//cdn.cnn.com/cnn/.e/interactive/html5-video-media/2019/06/20/20190713_China_Taiwan_invasion_map_small01x2.png) no-repeat 0 0 transparent; margin-bottom: 30px; padding-top: 196%; width: 100%; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover; background-size: cover; } @media (min-width: 640px) { .m-infographic--1561017434168{ background-image: url(//cdn.cnn.com/cnn/.e/interactive/html5-video-media/2019/06/20/20190713_China_Taiwan_invasion_map_large01.png); padding-top: 69.46236559139784%; } } @media (min-width: 1120px) { .m-infographic--1561017434168{ background-image: url(//cdn.cnn.com/cnn/.e/interactive/html5-video-media/2019/06/20/20190713_China_Taiwan_invasion_map_large01.png); padding-top: 69.46236559139784%; } } </style> <!--<![endif]--> <!--[if lte IE 8]> <style> .m-infographic--1561017434168{ background: url(//cdn.cnn.com/cnn/.e/interactive/html5-video-media/2019/06/20/20190713_China_Taiwan_invasion_map_large01.png) no-repeat 0 0 transparent; height: 646px; width: 930px; } </style> <![endif]--> <div class="m-infographic--1561017434168"
+/div> </div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_CECE6D1F-860E-ABE2-310F-FA1EFBEC98D6">First, the PLA would need to find a decent landing spot -- ideally close to both the mainland and a strategic city such as Taipei with nearby port and airport facilities. Experts have identified just 14 beaches that would fit the bill and Taiwan is well aware of which ones those are. Its engineers have spent decades digging tunnels and bunkers to protect them.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_E067EC55-45AC-B149-7B61-FA236B2F329E">Taiwan's troops would also be relatively fresh compared to their Chinese counterparts, who would be drained from the journey over and would still need to push through the island's western mud flats and mountains, with only narrow roads to assist them, toward Taipei.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_785096B9-E5FC-7A7F-9DE9-FA1EFE5EB82A">Chinese troops could be dropped in from the air, but a lack of paratroopers in the PLA makes it unlikely.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_0DF7EF52-4BDB-1F9E-18BD-FA15F2583C3A">Another problem for Chinese troops would be their lack of battlefield experience. The last time the PLA was in active combat was in 1979, when China fought a brief border war with Vietnam.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="Soldiers of Chinese People&amp;#39;s Liberation Army (PLA) fire a mortar during a live-fire military exercise in Anhui province, China May 22, 2021. " data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="Soldiers of Chinese People&amp;#39;s Liberation Army (PLA) fire a mortar during a live-fire military exercise in Anhui province, China May 22, 2021. " class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">Soldiers of Chinese People's Liberation Army (PLA) fire a mortar during a live-fire military exercise in Anhui province, China May 22, 2021. </div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "Soldiers of Chinese People&#39;s Liberation Army (PLA) fire a mortar during a live-fire military exercise in Anhui province, China May 22, 2021. ","description": "Soldiers of Chinese People&#39;s Liberation Army (PLA) fire a mortar during a live-fire military exercise in Anhui province, China May 22, 2021. ","url": "//cdn.cnn.com/cnnnext/dam/assets/220526081917-05-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_E1E1F67E-11FF-CDEE-E4EB-F92DE42EBDA9">In that effort, China "really got a bloody nose, it was not very successful operation," said Bonnie Glaser, director of the Asia program at the German Marshall Fund of the United States.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_40483709-DF76-7AD5-37FF-F92DE42E8A79">"So China's military today is not battle tested, and it could suffer great losses, if it indeed attacked Taiwan," Glaser said.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_7BDD05E3-E92E-7CB1-3D19-FA1B2E85E767">Others pointed out that even battle-tested troops could struggle against a well-motivated defensive force -- noting that the Russian military was bogged down in Ukraine despite its recent fighting experience in Syria and Georgia.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_2CC8D253-CFD1-3F9A-8AB5-FA1D5B5CCF87">Still, as with the other scenarios, it is not only Chinese forces that might be handicapped by a lack of experience. Taiwan's troops have also not been tested, and depending on the scenario, there are holes in even the US' experience. As Shugart put it: "There is not a single US naval officer who has sunk another ship in combat."</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_F1755003-3744-7B2D-DC44-F9AF1DFC28FC"
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_45721150-37AD-EF9F-EC97-F4C5A5C99196"
+h3>What are the chances China attacks?</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_9330DDE2-3FDD-D4ED-5279-F4C3B23BA3F3">Glaser, the German Marshall Fund analyst, thinks a Chinese invasion of Taiwan is unlikely.</div
+div class="el__embedded el__embedded--standard"
+div class="el__video--standard js__video--standard" data-autoplay="false"
+div class="el__video__close--standard js__video__close--standard el__storyelements--close cnn-icon"
+/div
+script>'use strict';CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = {};CNN.INJECTOR.executeFeature('video').then(function () {CNN.VideoPlayer.handleUnmutePlayer = function handleUnmutePlayer(containerId, dataObj) {'use strict';var playerInstance,playerPropertyObj,rememberTime,unmuteCTA,unmuteIdSelector = 'unmute_' + containerId,isPlayerMute;dataObj = dataObj || {};if (CNN.VideoPlayer.getLibraryName(containerId) === 'fave') {playerInstance = FAVE.player.getInstance(containerId) || null;} else {playerInstance = containerId && window.cnnVideoManager.getPlayerByContainer(containerId).videoInstance.cvp || null;}isPlayerMute = (typeof dataObj.muted === 'boolean') ? dataObj.muted : false;if (CNN.VideoPlayer.playerProperties && CNN.VideoPlayer.playerProperties[containerId]) {playerPropertyObj = CNN.VideoPlayer.playerProperties[containerId];}if (playerPropertyObj.mute && playerPropertyObj.contentPlayed) {if (isPlayerMute === false) {unmuteCTA = jQuery(document.getElementById(unmuteIdSelector));playerInstance.unmute();if (unmuteCTA.length > 0) {unmuteCTA.removeClass('video__unmute--active').addClass('video__unmute--inactive');unmuteCTA.off('click');rememberTime = 0;if (rememberTime < 0) {rememberTime = 360 / 60;}CNN.Utils.storeLocalValue('unmute_asia', 'X', rememberTime);}} else {playerInstance.mute();}}};CNN.VideoPlayer.showFlashSlate = function showFlashSlate(container) {'use strict';var $vidEndSlate;$vidEndSlate = container.parent().find('.js-video__end-slate').eq(0);if ($vidEndSlate.length > 0) {$vidEndSlate.find('.l-container').html('<a href="https://get.adobe.com/flashplayer/" target="_blank"
+div class="flash-slate"
+/div
+/a>');$vidEndSlate.removeClass('video__end-slate--inactive').addClass('video__end-slate--active');}};CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;var configObj = {thumb: 'none',video: 'world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn',width: '100%',height: '100%',section: 'international',profile: 'expansion',network: 'cnn',markupId: 'body-text_85',theoplayer: {allowNativeFullscreen: true},adsection: 'const-article-inpage',frameWidth: '100%',frameHeight: '100%',posterImageOverride: {"mini":{"width":220,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-small-169.jpg","height":124},"xsmall":{"width":307,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-medium-plus-169.jpg","height":173},"small":{"width":460,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg","height":259},"medium":{"width":780,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-exlarge-169.jpg","height":438},"large":{"width":1100,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-super-169.jpg","height":619},"full16x9":{"width":1600,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-full-169.jpg","height":900},"mini1x1":{"width":120,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-small-11.jpg","height":120}}},autoStartVideo = false,isVideoReplayClicked = false,callbackObj,containerEl,currentVideoCollection = [],currentVideoCollectionId = '',isLivePlayer = false,mediaMetadataCallbacks,mobilePinnedView = null,moveToNextTimeout,mutePlayerEnabled = false,nextVideoId = '',nextVideoUrl = '',turnOnFlashMessaging = false,videoPinner,videoEndSlateImpl;if (CNN.autoPlayVideoExist === false) {autoStartVideo = false;autoStartVideo = typeof CNN.isLoggedInVideoCheck === 'function' ? CNN.isLoggedInVideoCheck(autoStartVideo) : autoStartVideo;if (autoStartVideo === true) {if (turnOnFlashMessaging === true) {autoStartVideo = false;containerEl = jQuery(document.getElementById(configObj.markupId));CNN.VideoPlayer.showFlashSlate(containerEl);} else {CNN.autoPlayVideoExist = true;}}}configObj.autostart = CNN.Features.enableAutoplayBlock ? false : autoStartVideo;CNN.VideoPlayer.setPlayerProperties(configObj.markupId, autoStartVideo, isLivePlayer, isVideoReplayClicked, mutePlayerEnabled);CNN.VideoPlayer.setFirstVideoInCollection(currentVideoCollection, configObj.markupId);videoEndSlateImpl = new CNN.VideoEndSlate('body-text_85');function findNextVideo(currentVideoId) {var i,vidObj;if (currentVideoId && jQuery.isArray(currentVideoCollection) && currentVideoCollection.length > 0) {for (i = 0; i < currentVideoCollection.length; i++) {vidObj = currentVideoCollection[i];if (typeof vidObj !== 'undefined' && vidObj.videoId === currentVideoId) {if (i < currentVideoCollection.length - 1) {nextVideoId = currentVideoCollection[i + 1].videoId;nextVideoUrl = currentVideoCollection[i + 1].videoUrl;} else {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}break;}}if (!nextVideoUrl) {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}currentVideoCollectionId = (window.jsmd && window.jsmd.v && window.jsmd.v.eVar60) || nextVideoUrl.replace(/^.+\/video\/playlists\/(.+)\//, '$1');} else {nextVideoId = '';nextVideoUrl = '';}}findNextVideo('world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn');function navigateToNextVideo(currentVideoId, containerId) {var $endSlate,nextVideoPlayTimeout = 1500;findNextVideo(currentVideoId);if (nextVideoUrl) {moveToNextTimeout = setTimeout(function () {location.href = nextVideoUrl;}, nextVideoPlayTimeout);} else {$endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {videoEndSlateImpl.showEndSlateForContainer();if (mobilePinnedView) {mobilePinnedView.disable();}}}}callbackObj = {onPlayerReady: function (containerId) {var playerInstance,containerClassId = '#' + containerId;CNN.VideoPlayer.handleInitialExpandableVideoState(containerId);if (CNN.Features.enableVideoObserver && Modernizr && Modernizr.phone) {CNN.VideoPlayer.observeVideoPlayer(containerId);}CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, CNN.pageVis.isDocumentVisible());if (CNN.Features.enableMobileWebFloatingPlayer &&Modernizr &&(Modernizr.phone || Modernizr.mobile || Modernizr.tablet) &&CNN.VideoPlayer.getLibraryName(containerId) === 'fave' &&jQuery(containerClassId).parents('.js-pg-rail-tall__head').length > 0 &&CNN.contentModel.pageType === 'article') {playerInstance = FAVE.player.getInstance(containerId);mobilePinnedView = new CNN.MobilePinnedView({element: jQuery(containerClassId),enabled: false,transition: CNN.MobileWebFloatingPlayer.transition,onPin: function () {playerInstance.hideUI();},onUnpin: function () {playerInstance.showUI();},onPlayerClick: function () {if (mobilePinnedView) {playerInstance.enterFullscreen();playerInstance.showUI();}},onDismiss: function() {CNN.Videx.mobile.pinnedPlayer.disable();playerInstance.pause();}});/* Storing pinned view on CNN.Videx.mobile.pinnedPlayer So that all players can see the single pinned player */CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = CNN.Videx.mobile || {};CNN.Videx.mobile.pinnedPlayer = mobilePinnedView;}if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (jQuery(containerClassId).parents('.js-pg-rail-tall__head').length) {videoPinner = new CNN.VideoPinner(containerClassId);videoPinner.init();} else {CNN.VideoPlayer.hideThumbnail(containerId);}}},onContentEntryLoad: function(containerId, playerId, contentid, isQueue) {CNN.VideoPlayer.showSpinner(containerId);},onContentPause: function (containerId, playerId, videoId, paused) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, paused);}},onContentMetadata: function (containerId, playerId, metadata, contentId, duration, width, height) {var endSlateLen = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0).length;CNN.VideoSourceUtils.updateSource(containerId, metadata);if (endSlateLen > 0) {videoEndSlateImpl.fetchAndShowRecommendedVideos(metadata);}},onAdPlay: function (containerId, cvpId, token, mode, id, duration, blockId, adType) {/* Dismissing the pinnedPlayer if another video players plays an Ad */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onAdPause: function (containerId, playerId, token, mode, id, duration, blockId, adType, instance, isAdPause) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, isAdPause);}},onTrackingFullscreen: function (containerId, PlayerId, dataObj) {CNN.VideoPlayer.handleFullscreenChange(containerId, dataObj);if (mobilePinnedView &&typeof dataObj === 'object' &&FAVE.Utils.os === 'iOS' && !dataObj.fullscreen) {jQuery(document).scrollTop(mobilePinnedView.getScrollPosition());playerInstance.hideUI();}},onContentPlay: function (containerId, cvpId, event) {var playerInstance,prevVideoId;if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreEpicAds');}clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onContentReplayRequest: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);var $endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {$endSlate.removeClass('video__end-slate--active').addClass('video__end-slate--inactive');}}}},onContentBegin: function (containerId, cvpId, contentId) {if (mobilePinnedView) {mobilePinnedView.enable();}/* Dismissing the pinnedPlayer if another video players plays a video. */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);CNN.VideoPlayer.mutePlayer(containerId);if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('removeEpicAds');}CNN.VideoPlayer.hideSpinner(containerId);clearTimeout(moveToNextTimeout);CNN.VideoSourceUtils.clearSource(containerId);jQuery(document).triggerVideoContentStarted();},onContentComplete: function (containerId, cvpId, contentId) {if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreFreewheel');}navigateToNextVideo(contentId, containerId);},onContentEnd: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(false);}}},onCVPVisibilityChange: function (containerId, cvpId, visible) {CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, visible);}};if (typeof configObj.context !== 'string' || configObj.context.length <= 0) {configObj.context = 'asia'.replace(/[\(\)\-]/g, '');}if (typeof configObj.adsection === 'undefined' && typeof window.ssid === 'string' && window.ssid.length > 0) {configObj.adsection = window.ssid;}CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;CNN.VideoPlayer.getLibrary(configObj, callbackObj, isLivePlayer);});CNN.INJECTOR.scriptComplete('videodemanddust');</script
+div class="js-media__video media__video" id="media__video_body-text_85--wrapper"
+div id="body-text_85--thumbnail" class="media__video--thumbnail"
+img class="media__image media__image--responsive" alt="Here&amp;#39;s how Taiwan has made the US-China relationship more complicated" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="Here&amp;#39;s how Taiwan has made the US-China relationship more complicated" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg"
+/noscript
+div aria-hidden="true" class="js-video-demand media__video--demand"
+/div
+div aria-hidden="true" class="js-video-demand media__video--demand"
+/div
+/div
+div id="spinner_body-text_85" class="video-red-spinner"
+/div
+div class="media__video--thumbnail-wrapper"
+div class="video__end-slate--inactive video__end-slate js-video__end-slate" data-eq-pts="xsmall: 0, small: 300, medium: 460, large: 780"
+div class="l-container"
+div class="video__end-slate__top-wrapper"
+div class="js-el__video__replayer-wrapper el__video__replayer-wrapper"
+img alt="Here&#39;s how Taiwan has made the US-China relationship more complicated" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg"
+a class="el__video__replay-button-wrapper" href="javascript:void(0);" title="Click to watch this video"
+div class="js-el__video__replay-button el__video__replay-button"
+/div
+/a
+/div
+div class="video__end-slate__secondary"
+ul class="cn cn-list-hierarchical-xs cn--idx-0"
+h3 class="cd__headline-title">JUST WATCHED</h3
+h2 class="cd__headline"
+span class="cd__headline-text js-cd__headline-text">Here's how Taiwan has made the US-China relationship more complicated</span
+/h2
+/ul
+div class="video__end-slate__replay"
+a class="js-video__end-slate__replay"
+div class="video__end-slate__replay-icon cnn-icon"
+/div
+/a
+/div
+div class="video__end-slate__engage__wrapper"
+div class="video__end-slate__engage__text"
+a class="js-video__end-slate__replay-text video__end-slate__replay-text">Replay</a
+/div
+div class="video__end-slate__engage__more"
+a href="/videos" class="video__end-slate__replay-text">More Videos ...</a
+/div
+/div
+/div
+/div
+h4 class="video__end-slate__tertiary-title">MUST WATCH</h4
+div class="js-video__end-slate__tertiary video__end-slate__tertiary"
+div class="js-video__end-slate__carousel video__end-slate__carousel"
+/div
+/div
+/div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "https://schema.org","@type": "VideoObject","name": "Here&#39;s how Taiwan has made the US-China relationship more complicated","description": "CNN&#39;s Selina Wang looks at the history of Taiwan&#39;s relationship with China, and how it has made the United States&#39; relationship with Beijing more complicated.","thumbnailURL": "https://cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg","image": "https://cdn.cnn.com/cnnnext/dam/assets/211012130640-china-taiwan-flags-large-169.jpg","duration": "PT2M55S","uploadDate": "2022-05-25T10:24:49Z","contentUrl": "https://edition.cnn.com/videos/world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn","url": "https://edition.cnn.com/videos/world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn","embedUrl": "https://fave.api.cnn.io/v1/fav/?video=world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn&customer=cnn&edition=international&env=prod"}</script
+div id="body-text_85" class="media__video--responsive " data-video-id="world/2022/05/25/us-taiwan-china-history-selina-wang-pkg-ctw-vpx.cnn"
+/div
+div id="body-text_85-metadata" class="metadata"
+p class="metadata__source"
+span class="metadata__source-name"
+/span
+/p
+/div
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header">Here's how Taiwan has made the US-China relationship more complicated</span> <span class="el__storyelement__gray">02:54</span
+/div
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_15B1C82F-8282-D72A-32EF-F4C4603D8BF3">"I think that the PLA lacks full confidence that it can seize and control Taiwan. The PLA itself talks about some of the deficiencies in its capability," she said.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_2461FF81-96E8-6640-7857-F4C5211F1BF5">"And obviously, the war in Ukraine highlights some of the challenges that China could face; it is certainly much harder to launch a war 100 miles across a body of water than it is across land borders, (such as those) between Russia and Ukraine," she said.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_BC1079A2-7BE9-7D19-A13B-F4C6092B8C90">She noted that the strong Ukrainian resistance may be giving Taiwan's people reason to fight for their land.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_B5C5E7C9-F3FF-830E-D4B6-F4C6D717CD0A">"Given how Ukraine has really demonstrated a very high morale and willingness to defend its freedoms ... I think that this is likely to change the calculus of not only military leaders in China, but hopefully also of (Chinese leader) Xi Jinping personally," she said. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_24123462-B83E-82A3-95E6-F4CABAE46079">O'Brien, the University of St. Andrews professor, wrote in The Spectator this year that any war over Taiwan would lead to devastating losses on all sides, something that should make their leaders tread carefully before committing troops.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_08A6E876-8092-4F9F-331C-F4C9C0E08426">"If the Ukrainian war teaches us anything, it is that war is almost always a rash choice. Don't underestimate your opponent, and don't assume your systems will all work that well."</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__image--fullwidth js__image--fullwidth"
+div
+img class="media__image media__image--responsive" alt="A Chinese amy tank takes part in military drills in 2018." data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="A Chinese amy tank takes part in military drills in 2018." class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-large-169.jpg"
+/noscript
+div class="media__caption el__gallery_image-title"
+div class="element-raw appearance-fullwidth">A Chinese amy tank takes part in military drills in 2018.</div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "http://schema.org","@type": "ImageObject","name": "A Chinese amy tank takes part in military drills in 2018.","description": "A Chinese amy tank takes part in military drills in 2018.","url": "//cdn.cnn.com/cnnnext/dam/assets/220526082340-09-china-taiwan-invasion-large-169.jpg"}</script
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_1F20A2D9-238D-696C-86C3-F9EC53D797B8"
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3F492BDF-7B14-BF9A-103C-F9ECAB381637"
+h3>Any other option?</h3
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_4E016F52-5BFF-533C-5192-F9EC79F0C291">Of course, the PLA has options other than a full-blown invasion. </div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_F991A1DF-71DA-32D2-1543-FA28B3E06DB7">These include taking outlying Taiwanese islands or imposing a quarantine on the main island, Robert Blackwill and Philip Zelikow wrote last year in a report for the Council on Foreign Relations.</div
+div class="el__embedded el__embedded--fullwidth"
+div class="el__video--fullwidth js__video--fullwidth" data-autoplay="false"
+script>'use strict';CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = {};CNN.INJECTOR.executeFeature('video').then(function () {CNN.VideoPlayer.handleUnmutePlayer = function handleUnmutePlayer(containerId, dataObj) {'use strict';var playerInstance,playerPropertyObj,rememberTime,unmuteCTA,unmuteIdSelector = 'unmute_' + containerId,isPlayerMute;dataObj = dataObj || {};if (CNN.VideoPlayer.getLibraryName(containerId) === 'fave') {playerInstance = FAVE.player.getInstance(containerId) || null;} else {playerInstance = containerId && window.cnnVideoManager.getPlayerByContainer(containerId).videoInstance.cvp || null;}isPlayerMute = (typeof dataObj.muted === 'boolean') ? dataObj.muted : false;if (CNN.VideoPlayer.playerProperties && CNN.VideoPlayer.playerProperties[containerId]) {playerPropertyObj = CNN.VideoPlayer.playerProperties[containerId];}if (playerPropertyObj.mute && playerPropertyObj.contentPlayed) {if (isPlayerMute === false) {unmuteCTA = jQuery(document.getElementById(unmuteIdSelector));playerInstance.unmute();if (unmuteCTA.length > 0) {unmuteCTA.removeClass('video__unmute--active').addClass('video__unmute--inactive');unmuteCTA.off('click');rememberTime = 0;if (rememberTime < 0) {rememberTime = 360 / 60;}CNN.Utils.storeLocalValue('unmute_asia', 'X', rememberTime);}} else {playerInstance.mute();}}};CNN.VideoPlayer.showFlashSlate = function showFlashSlate(container) {'use strict';var $vidEndSlate;$vidEndSlate = container.parent().find('.js-video__end-slate').eq(0);if ($vidEndSlate.length > 0) {$vidEndSlate.find('.l-container').html('<a href="https://get.adobe.com/flashplayer/" target="_blank"
+div class="flash-slate"
+/div
+/a>');$vidEndSlate.removeClass('video__end-slate--inactive').addClass('video__end-slate--active');}};CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;var configObj = {thumb: 'none',video: 'world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn',width: '100%',height: '100%',section: 'international',profile: 'expansion',network: 'cnn',markupId: 'body-text_97',theoplayer: {allowNativeFullscreen: true},adsection: 'const-article-inpage',frameWidth: '100%',frameHeight: '100%',posterImageOverride: {"mini":{"width":220,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-small-169.jpg","height":124},"xsmall":{"width":307,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-medium-plus-169.jpg","height":173},"small":{"width":460,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg","height":259},"medium":{"width":780,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-exlarge-169.jpg","height":438},"large":{"width":1100,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-super-169.jpg","height":619},"full16x9":{"width":1600,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-full-169.jpg","height":900},"mini1x1":{"width":120,"type":"jpg","uri":"//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-small-11.jpg","height":120}}},autoStartVideo = false,isVideoReplayClicked = false,callbackObj,containerEl,currentVideoCollection = [],currentVideoCollectionId = '',isLivePlayer = false,mediaMetadataCallbacks,mobilePinnedView = null,moveToNextTimeout,mutePlayerEnabled = false,nextVideoId = '',nextVideoUrl = '',turnOnFlashMessaging = false,videoPinner,videoEndSlateImpl;if (CNN.autoPlayVideoExist === false) {autoStartVideo = false;autoStartVideo = typeof CNN.isLoggedInVideoCheck === 'function' ? CNN.isLoggedInVideoCheck(autoStartVideo) : autoStartVideo;if (autoStartVideo === true) {if (turnOnFlashMessaging === true) {autoStartVideo = false;containerEl = jQuery(document.getElementById(configObj.markupId));CNN.VideoPlayer.showFlashSlate(containerEl);} else {CNN.autoPlayVideoExist = true;}}}configObj.autostart = CNN.Features.enableAutoplayBlock ? false : autoStartVideo;CNN.VideoPlayer.setPlayerProperties(configObj.markupId, autoStartVideo, isLivePlayer, isVideoReplayClicked, mutePlayerEnabled);CNN.VideoPlayer.setFirstVideoInCollection(currentVideoCollection, configObj.markupId);videoEndSlateImpl = new CNN.VideoEndSlate('body-text_97');function findNextVideo(currentVideoId) {var i,vidObj;if (currentVideoId && jQuery.isArray(currentVideoCollection) && currentVideoCollection.length > 0) {for (i = 0; i < currentVideoCollection.length; i++) {vidObj = currentVideoCollection[i];if (typeof vidObj !== 'undefined' && vidObj.videoId === currentVideoId) {if (i < currentVideoCollection.length - 1) {nextVideoId = currentVideoCollection[i + 1].videoId;nextVideoUrl = currentVideoCollection[i + 1].videoUrl;} else {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}break;}}if (!nextVideoUrl) {nextVideoId = currentVideoCollection[0].videoId;nextVideoUrl = currentVideoCollection[0].videoUrl;}currentVideoCollectionId = (window.jsmd && window.jsmd.v && window.jsmd.v.eVar60) || nextVideoUrl.replace(/^.+\/video\/playlists\/(.+)\//, '$1');} else {nextVideoId = '';nextVideoUrl = '';}}findNextVideo('world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn');function navigateToNextVideo(currentVideoId, containerId) {var $endSlate,nextVideoPlayTimeout = 1500;findNextVideo(currentVideoId);if (nextVideoUrl) {moveToNextTimeout = setTimeout(function () {location.href = nextVideoUrl;}, nextVideoPlayTimeout);} else {$endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {videoEndSlateImpl.showEndSlateForContainer();if (mobilePinnedView) {mobilePinnedView.disable();}}}}callbackObj = {onPlayerReady: function (containerId) {var playerInstance,containerClassId = '#' + containerId;CNN.VideoPlayer.handleInitialExpandableVideoState(containerId);if (CNN.Features.enableVideoObserver && Modernizr && Modernizr.phone) {CNN.VideoPlayer.observeVideoPlayer(containerId);}CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, CNN.pageVis.isDocumentVisible());if (CNN.Features.enableMobileWebFloatingPlayer &&Modernizr &&(Modernizr.phone || Modernizr.mobile || Modernizr.tablet) &&CNN.VideoPlayer.getLibraryName(containerId) === 'fave' &&jQuery(containerClassId).parents('.js-pg-rail-tall__head').length > 0 &&CNN.contentModel.pageType === 'article') {playerInstance = FAVE.player.getInstance(containerId);mobilePinnedView = new CNN.MobilePinnedView({element: jQuery(containerClassId),enabled: false,transition: CNN.MobileWebFloatingPlayer.transition,onPin: function () {playerInstance.hideUI();},onUnpin: function () {playerInstance.showUI();},onPlayerClick: function () {if (mobilePinnedView) {playerInstance.enterFullscreen();playerInstance.showUI();}},onDismiss: function() {CNN.Videx.mobile.pinnedPlayer.disable();playerInstance.pause();}});/* Storing pinned view on CNN.Videx.mobile.pinnedPlayer So that all players can see the single pinned player */CNN.Videx = CNN.Videx || {};CNN.Videx.mobile = CNN.Videx.mobile || {};CNN.Videx.mobile.pinnedPlayer = mobilePinnedView;}if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (jQuery(containerClassId).parents('.js-pg-rail-tall__head').length) {videoPinner = new CNN.VideoPinner(containerClassId);videoPinner.init();} else {CNN.VideoPlayer.hideThumbnail(containerId);}}},onContentEntryLoad: function(containerId, playerId, contentid, isQueue) {CNN.VideoPlayer.showSpinner(containerId);},onContentPause: function (containerId, playerId, videoId, paused) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, paused);}},onContentMetadata: function (containerId, playerId, metadata, contentId, duration, width, height) {var endSlateLen = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0).length;CNN.VideoSourceUtils.updateSource(containerId, metadata);if (endSlateLen > 0) {videoEndSlateImpl.fetchAndShowRecommendedVideos(metadata);}},onAdPlay: function (containerId, cvpId, token, mode, id, duration, blockId, adType) {/* Dismissing the pinnedPlayer if another video players plays an Ad */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onAdPause: function (containerId, playerId, token, mode, id, duration, blockId, adType, instance, isAdPause) {if (mobilePinnedView) {CNN.VideoPlayer.handleMobilePinnedPlayerStates(containerId, isAdPause);}},onTrackingFullscreen: function (containerId, PlayerId, dataObj) {CNN.VideoPlayer.handleFullscreenChange(containerId, dataObj);if (mobilePinnedView &&typeof dataObj === 'object' &&FAVE.Utils.os === 'iOS' && !dataObj.fullscreen) {jQuery(document).scrollTop(mobilePinnedView.getScrollPosition());playerInstance.hideUI();}},onContentPlay: function (containerId, cvpId, event) {var playerInstance,prevVideoId;if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreEpicAds');}clearTimeout(moveToNextTimeout);CNN.VideoPlayer.hideSpinner(containerId);if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);videoPinner.animateDown();}}},onContentReplayRequest: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(true);var $endSlate = jQuery(document.getElementById(containerId)).parent().find('.js-video__end-slate').eq(0);if ($endSlate.length > 0) {$endSlate.removeClass('video__end-slate--active').addClass('video__end-slate--inactive');}}}},onContentBegin: function (containerId, cvpId, contentId) {if (mobilePinnedView) {mobilePinnedView.enable();}/* Dismissing the pinnedPlayer if another video players plays a video. */CNN.VideoPlayer.dismissMobilePinnedPlayer(containerId);CNN.VideoPlayer.mutePlayer(containerId);if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('removeEpicAds');}CNN.VideoPlayer.hideSpinner(containerId);clearTimeout(moveToNextTimeout);CNN.VideoSourceUtils.clearSource(containerId);jQuery(document).triggerVideoContentStarted();},onContentComplete: function (containerId, cvpId, contentId) {if (CNN.companion && typeof CNN.companion.updateCompanionLayout === 'function') {CNN.companion.updateCompanionLayout('restoreFreewheel');}navigateToNextVideo(contentId, containerId);},onContentEnd: function (containerId, cvpId, contentId) {if (Modernizr && !Modernizr.phone && !Modernizr.mobile && !Modernizr.tablet) {if (typeof videoPinner !== 'undefined' && videoPinner !== null) {videoPinner.setIsPlaying(false);}}},onCVPVisibilityChange: function (containerId, cvpId, visible) {CNN.VideoPlayer.handleAdOnCVPVisibilityChange(containerId, visible);}};if (typeof configObj.context !== 'string' || configObj.context.length <= 0) {configObj.context = 'asia'.replace(/[\(\)\-]/g, '');}if (typeof configObj.adsection === 'undefined' && typeof window.ssid === 'string' && window.ssid.length > 0) {configObj.adsection = window.ssid;}CNN.autoPlayVideoExist = (CNN.autoPlayVideoExist === true) ? true : false;CNN.VideoPlayer.getLibrary(configObj, callbackObj, isLivePlayer);});CNN.INJECTOR.scriptComplete('videodemanddust');</script
+div class="js-media__video media__video" id="media__video_body-text_97--wrapper"
+div id="body-text_97--thumbnail" class="media__video--thumbnail"
+img class="media__image media__image--responsive" alt="Residents of Taipei on edge about China after Russia invades Ukraine" data-src-mini="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-small-169.jpg" data-src-xsmall="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-medium-plus-169.jpg" data-src-small="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg" data-src-medium="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-exlarge-169.jpg" data-src-large="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-super-169.jpg" data-src-full16x9="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-full-169.jpg" data-src-mini1x1="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-small-11.jpg" data-demand-load="not-loaded" data-eq-pts="mini: 0, xsmall: 221, small: 308, medium: 461, large: 781" src="data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7"
+div class="img__preloader"
+/div
+noscript
+img alt="Residents of Taipei on edge about China after Russia invades Ukraine" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg"
+/noscript
+/div
+div id="spinner_body-text_97" class="video-red-spinner"
+/div
+div class="media__video--thumbnail-wrapper"
+div class="video__end-slate--inactive video__end-slate js-video__end-slate" data-eq-pts="xsmall: 0, small: 300, medium: 460, large: 780"
+div class="l-container"
+div class="video__end-slate__top-wrapper"
+div class="js-el__video__replayer-wrapper el__video__replayer-wrapper"
+img alt="Residents of Taipei on edge about China after Russia invades Ukraine" class="media__image" src="//cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg"
+a class="el__video__replay-button-wrapper" href="javascript:void(0);" title="Click to watch this video"
+div class="js-el__video__replay-button el__video__replay-button"
+/div
+/a
+/div
+div class="video__end-slate__secondary"
+ul class="cn cn-list-hierarchical-xs cn--idx-0"
+h3 class="cd__headline-title">JUST WATCHED</h3
+h2 class="cd__headline"
+span class="cd__headline-text js-cd__headline-text">Residents of Taipei on edge about China after Russia invades Ukraine</span
+/h2
+/ul
+div class="video__end-slate__replay"
+a class="js-video__end-slate__replay"
+div class="video__end-slate__replay-icon cnn-icon"
+/div
+/a
+/div
+div class="video__end-slate__engage__wrapper"
+div class="video__end-slate__engage__text"
+a class="js-video__end-slate__replay-text video__end-slate__replay-text">Replay</a
+/div
+div class="video__end-slate__engage__more"
+a href="/videos" class="video__end-slate__replay-text">More Videos ...</a
+/div
+/div
+/div
+/div
+h4 class="video__end-slate__tertiary-title">MUST WATCH</h4
+div class="js-video__end-slate__tertiary video__end-slate__tertiary"
+div class="js-video__end-slate__carousel video__end-slate__carousel"
+/div
+/div
+/div
+/div
+script type="application/ld+json" name="metaScript">{"@context": "https://schema.org","@type": "VideoObject","name": "Residents of Taipei on edge about China after Russia invades Ukraine","description": "Russia&#39;s invasion of Ukraine has renewed fears that a potential conflict could also happen over Taiwan -- a democratic, self-governing island that China claims as part of its territory. Since the invasion, Taiwan&#39;s military has been put on a high level of vigilance, and some experts caution that authoritarian leaders may not always make rational, well-informed decisions. CNN&#39;s Will Ripley explains.","thumbnailURL": "https://cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg","image": "https://cdn.cnn.com/cnnnext/dam/assets/220314104426-04-five-things-ukraine-03-14-intl-large-169.jpg","duration": "PT2M53S","uploadDate": "2022-03-15T03:36:36Z","contentUrl": "https://edition.cnn.com/videos/world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn","url": "https://edition.cnn.com/videos/world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn","embedUrl": "https://fave.api.cnn.io/v1/fav/?video=world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn&customer=cnn&edition=international&env=prod"}</script
+div id="body-text_97" class="media__video--responsive " data-video-id="world/2022/03/15/china-russia-taiwan-ukraine-ripley-ebof-vpx.cnn"
+/div
+div id="body-text_97-metadata" class="metadata"
+p class="metadata__source"
+span class="metadata__source-name"
+/span
+/p
+/div
+/div
+div class="media__caption el__storyelement__title"
+span class="el__storyelement__header">Residents of Taipei on edge about China after Russia invades Ukraine</span> <span class="el__storyelement__gray">02:52</span
+/div
+/div
+/div
+/div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_CA363076-9C45-5EEA-706F-F9EC7D6C674E">Possible PLA targets could be Taiping Island, Taiwan's most far-flung outpost in the South China Sea; the tiny Pratas Island, a small outpost 170 nautical miles (320 kilometers) southeast of Hong Kong; Kinmen and Matsu islands, tiny territories just a few miles off mainland China's coast; or Penghu in the Taiwan Strait.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_3726FA47-F7A8-D851-F9E3-F9EC7D7271DA">While a PLA victory of any of the four is almost assured, it could come at the cost of galvanizing support for Taiwan in the rest of the world -- much as Russia's invasion of Ukraine has united the West against it.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_41E362AB-D618-17B6-4AC5-FA2C1F9FDCA8">Blackwill and Zelikow said the quarantine option might be more effective.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_E0DC31D9-28A5-A2AC-655E-F9EC7D7F6473">"In a quarantine scenario, the Chinese government would effectively take control of the air and sea borders of Taiwan," they wrote. "The Chinese government would run effectively a clearance operation offshore or in the air to screen incoming ships and aircraft. The screeners could then wave along what they regarded as innocent traffic."</div
+div class="ad ad--epic ad--mobile" data-ad-text="show"
+div data-ad-id="ad_rect_btf_01" data-ad-position="mobile" data-ad-refresh="default"
+/div
+/div
+ul class="cn cn-list-hierarchical-xs cn--idx-102 cn-zoneAdContainer" data-layout="list-hierarchical-xs"
+/ul
+div class="zn-body__paragraph" data-paragraph-id="paragraph_86FE11EF-1C38-A77B-BDDA-F9EC7D855915">Anything regarded as belligerent, such as US military aid for Taiwan, could be blocked or confiscated as a violation of Chinese sovereignty, they say. Meanwhile, China could allow the Taiwan government to function as normal except for foreign affairs.</div
+div class="zn-body__paragraph" data-paragraph-id="paragraph_4CBF1310-504E-D854-5129-FA2E22B16E38">This option would have an advantage in China's eyes: the ball would be in the US' court as to whether to use force to end the quarantine. Then it would be the US that would have to consider whether to risk a war that could cost countless lives. </div
+/div
+p class="zn-body__paragraph zn-body__footer">CNN's Rebecca Wright contributed to this report.</p
+/div
+div class="zn-body__read-more-outbrain"
+ul class="cn cn-list-hierarchical-small-horizontal cn--idx-0 cn-" data-layout="list-hierarchical-small-horizontal"
+li
+article class="cd cd--tool cd--tool__outbrain" data-analytics="tool-type_list-hierarchical-small-horizontal_outbrain" data-vr-contentbox="" data-eq-pts="xsmall: 0, small: 300, medium: 460, large: 780"
+div class="OB_HOP_25 conditionalremove"
+div class="OUTBRAIN js-m-outbrain m-outbrain" data-src="https://edition.cnn.com/2022/05/31/asia/china-taiwan-invasion-scenarios-analysis-intl-hnk-ml/index.html" data-widget-id="HOP_25" data-ob-template="cnn"
+/div
+/div
+/article
+/li
+/ul
+/div>
