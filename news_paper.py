@@ -26,7 +26,8 @@ def get_body(raw_data):
     raw_data['raw_data'] = raw_data["raw_data"][begin:end+7]
     raw = raw_data['raw_data'].split("><")
     data = ""
-    for i in range(len(raw)):
+    raw[0] += ">"
+    for i in range(1:len(raw)):
         raw[i] = "<" + raw[i] + ">"
         if "<script" not in raw[i]:
         	data += raw[i]
@@ -164,7 +165,7 @@ def get_author(raw_data):
 # https://www.ndtv.com/india-news/request-pm-arrest-all-of-us-together-arvind-kejriwal-defends-delhi-ministers-over-corruption-charges-3031254#pfrom=home-ndtv_topscroll
 
 
-url = 'https://edition.cnn.com/2022/05/31/asia/asia-meth-crime-synthetic-drugs-hnk-intl/index.html'
+url = 'https://www.nbcnews.com/news/us-news/multiple-victims-shooting-tulsa-hospital-gunman-police-say-rcna31551'
 
 raw_data = read_url(url)
 
