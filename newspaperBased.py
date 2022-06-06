@@ -15,6 +15,8 @@ def get_html(article):
 def parse(article):
     raw = article.text
     #  Split each line based on end tag
+    raw = raw.replace("\n","")
+
     raw = raw.split("><")
     raw[0] += ">"
     raw[-1] = "<" + raw[-1]
@@ -68,6 +70,10 @@ def parse(article):
 def get_content(raw):    
 
     title = get_title(raw)
+    for i in range(len(raw)):
+        if "caption" in raw[i] or "Photograph" in raw[i]:
+            raw[i] = ""
+    raw = list(filter(None, raw))
 
     for i in range(len(raw)):
     	tags = []
@@ -105,11 +111,11 @@ def get_title(data):
     for i in range(len(data)):
         if "<h1" in data[i]:
             titles.append(data[i])
+            
     if len(titles) == 0:
     	return "Not Found"
     for i in range(len(titles)):
         if "img" not in titles[i]:
-
             begin = titles[i].find("<h1")
 
             titles[i] = titles[i][begin:]
@@ -170,6 +176,10 @@ def get_author(data):
     return "Not Found!"
 
 def get_summary(data):
-    return TF_IDF.summary(data)
+    try:
+        summary = TF_IDF.summary(data)
+    except Exception:
+        summary = "Error while summarizing!"
+    return summary
 
 
