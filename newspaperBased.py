@@ -1,12 +1,19 @@
 import requests
 import re
 from datetime import datetime
+import TF_IDF 
 
-
-def article(url):
+def Article(url):
     result = requests.get(url)
-    raw = result.text
+    return result
 
+
+def get_html(article):
+    raw = article.text
+    return raw
+
+def parse(article):
+    raw = article.text
     #  Split each line based on end tag
     raw = raw.split("><")
     raw[0] += ">"
@@ -25,21 +32,19 @@ def article(url):
     except Exception:
         pass
 
-    return raw
-
-
-def get_content(raw):    
-    title = get_title(raw)
-    if "\n" in raw[0]:
-        data = " ".join(raw)
-        raw = data.split("\n")
- 	# Remove <script> line
+    # Remove <script> line
     for i in range(len(raw)):
         if "<script" in raw[i]:
             raw[i] = ""
     raw = list(filter(None, raw))
 
-    # Remove <style>  line
+    # Remove video line
+    for i in range(len(raw)):
+        if "videoUrl" in raw[i]:
+            raw[i] = ""
+    raw = list(filter(None, raw))
+
+    # Remove <style> line
     for i in range(len(raw)):
         if "<style" in raw[i]:
             raw[i] = ""
@@ -57,12 +62,12 @@ def get_content(raw):
             raw[i] = ""
     raw = list(filter(None, raw))
 
-    for i in range(len(raw)):
-    	if "</article>" in raw[i]:
-    		raw = raw[:i]
-    		break
+    return raw
 
-    raw = list(filter(None, raw))
+
+def get_content(raw):    
+
+    title = get_title(raw)
 
     for i in range(len(raw)):
     	tags = []
@@ -75,7 +80,7 @@ def get_content(raw):
     		raw[i] = raw[i].replace(tag , "")
     		continue
     raw = list(filter(None, raw))
- 
+
     # Remove unnecessary extra space
     for i in range(len(raw)):
         raw[i] = " ".join(raw[i].strip().split())
@@ -164,40 +169,7 @@ def get_author(data):
             return raw[i]
     return "Not Found!"
 
+def get_summary(data):
+    return TF_IDF.summary(data)
 
 
-# # Export
-# with open("raw.txt", "w", encoding="utf-8") as file:
-#     file.write("\n".join(raw))
-
-
-# URL LINK ---------------------
-
-# https://edition.cnn.com/2022/06/02/europe/putin-ukraine-invasion-100-days-analysis-intl-cmd/index.html
-# https://www.nbcnews.com/news/us-news/multiple-people-injured-shooting-wisconsin-cemetery-funeral-rcna31737
-# https://vnexpress.net/hlv-gong-cau-thu-viet-nam-thi-dau-nhu-nhung-chien-binh-4471422.html
-# https://m.docbao.vn/phap-luat/vu-tinh-that-bong-lai-bi-can-le-tung-van-khai-gi-tintuc826115
-# https://dantri.com.vn/the-thao/bao-thai-lan-thua-nhan-thuc-te-phu-phang-khi-doi-dau-voi-u23-viet-nam-20220603132833908.htm
-# https://tuoitre.vn/viet-nam-co-the-nhap-xang-malaysia-gia-13000-dong-lit-co-giup-binh-on-gia-xang-dau-20220603124213153.htm
-
-
-url = 'https://edition.cnn.com/2022/06/02/europe/putin-ukraine-invasion-100-days-analysis-intl-cmd/index.html'
-
-data = article(url)
-
-title = get_title(data)
-
-date = get_date(data)
-
-author = get_author(data)
-
-content = get_content(data)
-
-
-print("Title: " + title)
-
-print("\nDate: " + str(date))
-
-print("\nAuthor: " + author)
-
-print("\nContent: \n" + content)
